@@ -1,0 +1,128 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgs{
+    width: 303px;
+    height: 303px;
+    border-radius: 5px;
+    top: 612px;
+    left: 70px;
+}
+.img1{
+    width: 150px;
+}
+
+.img2{
+    width: 20px;
+}
+.img3{
+    width: 30px;
+}
+.img4{
+    width: 270px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.galeria{
+    padding-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.inicio{ 
+    display: flex;
+    justify-content: center;
+}
+
+.telainicial{
+   padding: auto;
+}
+
+.conteudoPrincipal{
+    background-color: A5A1A1;
+}
+.serviçoes {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.rodapefinal-list{
+    margin-top: 30px;
+	background-color: #F9F9F9;
+	padding: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodapefinal-list{
+    display: flex;
+}
+
+input{
+    border-color: aliceblue;
+    border-radius: 3 px;
+}
+.formulario form{
+    display: flex;
+}
+
+.form label {
+    font-weight: 700;
+}
+
+li { list-style-type: none; }
+
+.rodapefinal-list li{
+    padding: 5px;
+}
+
+.titulo{
+    font-family: 'Lato', sans-serif;
+}
+.item{
+    
+    padding-bottom: 100px;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+
+}
+.container{
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+}
+
+.container2{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+
+}
+
+.botao{
+    background-color: #5ca720;
+    color: #F9F9F9;
+    border-radius: 0px 5px 5px 0px;
+    width: 152px;
+    height: 54px;
+}
+
+.formulario{
+    width: 397px;
+    height: 54px;
+    border: 0.5px solid #d9d9d9;
+    border-radius:  5px 0px 0px 5px;
+ 
+    
+}
+.h1form{
+    font-weight: 900;
+}
